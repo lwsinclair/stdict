@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/privetin-stdict-badge.png)](https://mseep.ai/app/privetin-stdict)
+
 # Standard Korean Dictionary MCP Server
 MCP server for the Standard Korean Dictionary.
 
